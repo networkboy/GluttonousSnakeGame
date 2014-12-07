@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: sss - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/sss.pdb" /debug /machine:I386 /out:"Debug/sss.exe" /pdbtype:sept  ".\Debug\MainFrm.obj" ".\Debug\sss.obj" ".\Debug\sssDoc.obj" ".\Debug\sssView.obj" ".\Debug\StdAfx.obj" ".\Debug\sss.res" "
+<h3>Output Window</h3>
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/sss.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\MainFrm.sbr" ".\Debug\sss.sbr" ".\Debug\sssDoc.sbr" ".\Debug\sssView.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+sss.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
